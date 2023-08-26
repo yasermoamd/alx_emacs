@@ -51,3 +51,14 @@ You can use this when you have many windows oppened and you want to focus on one
 
 1. Move to the window you want to keep opened 
 2. hold down *ctrl* and press *x* then after leaving *ctrl* press 1
+
+
+
+
+# Command prompt
+
+Sometimes in your work with emacs, you may need to run a shell command and get the reult. instead of opening another terminal, tou can directly use a emacs command to open a shell buffer directly in emacs. to do it you should:
+
+1. Hold down *alt* and press x
+2. And after leaving *alt* write shell and press enter
+
