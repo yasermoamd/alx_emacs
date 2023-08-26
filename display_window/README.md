@@ -39,3 +39,15 @@ You can use this command when you are done with one of the windows you splited. 
 1. move to the window you want to close.
 2. hold down *ctrl* and press *0*
 
+
+
+
+
+# Return to screen
+
+You can use this when you have many windows oppened and you want to focus on one window. 
+
+## To use it:
+
+1. Move to the window you want to keep opened 
+2. hold down *ctrl* and press *x* then after leaving *ctrl* press 1
