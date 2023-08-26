@@ -37,7 +37,7 @@ You can use this command when you are done with one of the windows you splited. 
 
 ##To use it:
 1. move to the window you want to close.
-2. hold down *ctrl* and press *0*
+2. hold down *ctrl* and press *x* then after leaving *ctrl* press *0*
 
 
 
