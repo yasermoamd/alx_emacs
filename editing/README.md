@@ -1,5 +1,5 @@
 ## Moving About
-   1- *C-w* *//command is used to cut commands in Emacs*
+   1- *C-w* #command is used to cut commands in Emacs
 
    2- *C-y* *//command is used to inserts the most recent cut in Emacs*
 
