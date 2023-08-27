@@ -1,13 +1,13 @@
 ## Moving About
-   1- *C-w* #command is used to cut commands in Emacs
+   1- *C-w* command is used to cut commands in Emacs
 
-   2- *C-y* *//command is used to inserts the most recent cut in Emacs*
+   2- *C-y* command is used to inserts the most recent cut in Emacs
 
-   3- *M-d* or *ESC*  *//command is used to cut the word in front of the cursor in Emacs*
+   3- *M-d* or *ESC*  command is used to cut the word in front of the cursor in Emacs
 
-   4- *M-backspace* *//command is used to delete backward in Emacs*
+   4- *M-backspace* command is used to delete backward in Emacs
 
-   5- *C-k* *//command is used to cut a line in Emacs*
+   5- *C-k* <command is used to cut a line in Emacs>
 
    6- *C-s* *//command is used to forward search in Emacs* 
 
